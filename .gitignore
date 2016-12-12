@@ -5,3 +5,5 @@
 *.swp
 .rope*/
 
+# Pycharm
+.idea/
